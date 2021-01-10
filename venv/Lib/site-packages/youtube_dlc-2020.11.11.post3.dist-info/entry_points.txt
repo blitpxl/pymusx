@@ -1,0 +1,3 @@
+[console_scripts]
+youtube-dlc = youtube_dlc:main
+

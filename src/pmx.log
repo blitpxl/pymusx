@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "D:\Python Projects\PyMusX\src\pymusxcore.py", line 61, in <module>
+  File "C:\Users\Kevin\AppData\Local\Programs\Python\Python38\Lib\site-packages\shiboken2\files.dir\shibokensupport\__feature__.py", line 146, in _import
+  File "C:\Users\Kevin\AppData\Local\Programs\Python\Python38\lib\site-packages\vlc.py", line 210, in <module>
+  File "C:\Users\Kevin\AppData\Local\Programs\Python\Python38\lib\site-packages\vlc.py", line 170, in find_lib
+  File "C:\Users\Kevin\AppData\Local\Programs\Python\Python38\lib\ctypes\__init__.py", line 373, in __init__
+FileNotFoundError: Could not find module 'D:\Python Projects\PyMusX\src\libvlc.dll' (or one of its dependencies). Try using the full path with constructor syntax.
