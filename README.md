@@ -1,3 +1,8 @@
+# Warning
+This code is a clutter of (working) mess, i wrote this code knowing very little thing about Python.
+This code may caused Headache, Bleeding eyes and Ringing ears. Proceed with caution.
+This project will be abandoned soon after the upcoming update (God knows when).
+
 # Images
 * PyMusX with Translucency Effect
 ![PyMusX with Translucency](https://i.ibb.co/JQ9FVx3/pmx-translucent.png)
@@ -53,6 +58,7 @@ You can email me questions or ask for help: kevin.negated@gmail.com or DM me in 
 
 # Contributor
 Lads and lasses who helped during development
+* [Faris Fathoni](https://github.com/fithon32)
 * [Kedung S (Steve Adi Pratama)](https://www.youtube.com/channel/UC16FCdlCNPm92xITg3vLIyQ)
 
 # Social links
